@@ -72,7 +72,7 @@
                 <div class="container">
                     <ul class="clearfix">
                         <li> <!-- 가운데 -->
-                            <a href="./index.php" class="logo-btn">
+                            <a href="./index.html" class="logo-btn">
                                 <img src="./img/logo_color.png" class="color" alt="">
                                 <img src="./img/logo_white.png" class="white"  alt="">
                             </a>
